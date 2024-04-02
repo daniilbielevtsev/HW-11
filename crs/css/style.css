@@ -1,0 +1,10 @@
+.spam {
+  width: 350px;
+  height: 220px;
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-bottom: 20p;
+  padding-right: 10px;
+  border: dashed 2px red;
+  background-color: green;
+}
